@@ -5,7 +5,7 @@ www.gafam.info CHANGES
 
 in progress
 -----------
-
+- Wording, Emphasis, Cleanup
 
 2018-01-12 0.2.0
 ----------------
