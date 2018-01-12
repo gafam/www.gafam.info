@@ -6,6 +6,7 @@ www.gafam.info CHANGES
 in progress
 -----------
 - Wording, Emphasis, Cleanup
+- Rename repository gafam-l10n to gafam-poster-translations
 
 2018-01-12 0.2.0
 ----------------

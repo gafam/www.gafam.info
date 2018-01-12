@@ -15,16 +15,16 @@ $(document).ready(function() {
     $('#version').html(__version__);
 
     // Embed things from GitHub
-    githubEmbed('.gafam-l10n', {
+    githubEmbed('.github-gafam-poster-translations', {
         "owner": "gafam",
-        "repo": "gafam-l10n",
+        "repo": "gafam-poster-translations",
         "ref": "master",
         "embed": [
             /*
             {
                 "type": "htmlpage",
                 "label": "Embedded HTML page",
-                "url": "https://github.com/gafam/gafam-l10n"
+                "url": "https://github.com/gafam/gafam-poster-translations"
             },
             */
             {
