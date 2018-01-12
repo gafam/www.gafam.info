@@ -5,8 +5,15 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+
+
+2018-01-12 0.2.0
+----------------
 - Embed resources of gafam-l10n repository from GitHub
 - Add sections for introduction and contributions
+- Make embedding on IM a richer experience (add og:image)
+- Add anchor labels to sections: #call-for-help, #resources, #contribute
+- Add translations into German
 
 2018-01-12 0.1.0
 ----------------
