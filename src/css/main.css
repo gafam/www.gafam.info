@@ -1,0 +1,14 @@
+/* Baseline */
+.github-fork-ribbon {
+    -webkit-box-sizing: content-box !important;
+    box-sizing: content-box !important;
+}
+
+/* Customizations */
+.site-header .header-container {
+    margin-left: 2em;
+}
+
+.site-header .subtitle {
+    line-height: 1.6em;
+}

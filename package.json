@@ -1,0 +1,41 @@
+{
+    "name": "www.gafam.info",
+    "description": "Sources of www.gafam.info.",
+    "version": "0.0.0",
+    "license": "CC0-1.0",
+    "author": {
+        "name": "Gafam Tech",
+        "email": "tech@gafam.info"
+    },
+    "keywords": [
+        "gafam",
+        "information",
+        "localization"
+    ],
+    "homepage": "https://github.com/gafam/www.gafam.info",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/gafam/www.gafam.info.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gafam/www.gafam.info/issues"
+    },
+    "scripts": {
+        "watch": "webpack --config=webpack.develop.config.js --watch --hot",
+        "build": "webpack --config=webpack.develop.config.js --display detailed --display-error-details --progress",
+        "release": "webpack --config=webpack.release.config.js --display detailed --display-error-details --progress"
+    },
+    "devDependencies": {
+        "jquery": "^3.2.1",
+        "bulma": "^0.6.2",
+        "font-awesome": "^4.7.0",
+        "github-fork-ribbon-css": "^0.2.1",
+        "style-loader": "^0.19.0",
+        "css-loader": "^0.28.7",
+        "expose-loader": "^0.7.3",
+        "file-loader": "^1.1.5",
+        "webpack": "^3.5.6",
+        "webpack-dev-server": "^2.7.1",
+        "webpack-notifier": "^1.5.0"
+    }
+}
