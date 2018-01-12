@@ -7,6 +7,7 @@ in progress
 -----------
 - Wording, Emphasis, Cleanup
 - Rename repository gafam-l10n to gafam-poster-translations
+- Reformat HTML properly
 
 2018-01-12 0.2.0
 ----------------
