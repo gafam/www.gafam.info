@@ -8,6 +8,11 @@ in progress
 - Wording, Emphasis, Cleanup
 - Rename repository gafam-l10n to gafam-poster-translations
 - Reformat HTML properly
+- Add more helpers to Makefile
+
+    - Run a local webserver
+    - Upgrade instance running on production
+
 
 2018-01-12 0.2.0
 ----------------

@@ -1,3 +1,10 @@
+# ===============
+# local webserver
+# ===============
+webserver:
+	cd htdocs; python -m SimpleHTTPServer 8001; cd ..
+
+
 # ===========
 # bumpversion
 # ===========
@@ -22,6 +29,17 @@ push:
 
 
 release: bumpversion push
+
+
+# =======
+# upgrade
+# =======
+
+upgrade:
+	git stash save
+	git pull
+	git stash pop
+	yarn run release
 
 
 # ======
