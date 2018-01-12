@@ -29,12 +29,16 @@ $(document).ready(function() {
             */
             {
                 "type": "po",
-                "label": "French original",
+                "label": "French",
                 "path": "po/fr.po"
             }, {
                 "type": "po",
-                "label": "English translation",
+                "label": "English",
                 "path": "po/en.po"
+            }, {
+                "type": "po",
+                "label": "German",
+                "path": "po/de.po"
             }
         ]
     });
