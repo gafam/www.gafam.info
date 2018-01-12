@@ -5,6 +5,7 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+- Embed resources of gafam-l10n repository from GitHub
 
 2018-01-12 0.1.0
 ----------------
