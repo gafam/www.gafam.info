@@ -26,14 +26,16 @@
         "release": "webpack --config=webpack.release.config.js --display detailed --display-error-details --progress"
     },
     "devDependencies": {
-        "jquery": "^3.2.1",
+        "babel-polyfill": "^6.26.0",
         "bulma": "^0.6.2",
-        "font-awesome": "^4.7.0",
-        "github-fork-ribbon-css": "^0.2.1",
-        "style-loader": "^0.19.0",
         "css-loader": "^0.28.7",
         "expose-loader": "^0.7.3",
         "file-loader": "^1.1.5",
+        "font-awesome": "^4.7.0",
+        "github-embed": "^1.0.1",
+        "github-fork-ribbon-css": "^0.2.1",
+        "jquery": "^3.2.1",
+        "style-loader": "^0.19.0",
         "webpack": "^3.5.6",
         "webpack-dev-server": "^2.7.1",
         "webpack-notifier": "^1.5.0"
