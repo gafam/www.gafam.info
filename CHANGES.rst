@@ -13,6 +13,7 @@ in progress
     - Run a local webserver
     - Upgrade instance running on production
 
+- Add English PDFs to "resources" section. Split "collected translations" from "resources" section.
 
 2018-01-12 0.2.0
 ----------------

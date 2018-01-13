@@ -13,11 +13,37 @@
     line-height: 1.6em;
 }
 
-.github-gafam-poster-translations {
+.translations-details {
     height: 44em;
 }
+
+.github-embed-container {
+    height: 100%;
+}
+
+.github-gafam-poster-translations {
+    height: 90%;
+}
+
 .resource-card-image {
     width: 75% !important;
     margin-left: 3em;
 }
 
+.resource-card-content {
+    height: 13em;
+}
+
+.resource-card-description {
+    height: 10em;
+}
+
+.pull-left {
+    float: left;
+}
+.pull-right {
+    float: right;
+}
+.clearfix {
+    clear: both;
+}
