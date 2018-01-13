@@ -16,3 +16,8 @@
 .github-gafam-poster-translations {
     height: 44em;
 }
+.resource-card-image {
+    width: 75% !important;
+    margin-left: 3em;
+}
+
