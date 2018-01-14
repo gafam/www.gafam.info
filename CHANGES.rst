@@ -5,6 +5,10 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+
+
+2018-01-14 0.4.0
+----------------
 - Wording, Emphasis, Cleanup
 - Rename repository gafam-l10n to gafam-poster-translations
 - Reformat HTML properly
@@ -18,7 +22,7 @@ in progress
 - Improve wording
 - Add "About" section to both index.html and README.rst
 - Add sections "How to reproduce?" and "What else?"
-
+- Add content attributions
 
 2018-01-12 0.2.0
 ----------------
