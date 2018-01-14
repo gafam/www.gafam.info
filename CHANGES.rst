@@ -17,6 +17,8 @@ in progress
 - Improve responsiveness
 - Improve wording
 - Add "About" section to both index.html and README.rst
+- Add sections "How to reproduce?" and "What else?"
+
 
 2018-01-12 0.2.0
 ----------------
