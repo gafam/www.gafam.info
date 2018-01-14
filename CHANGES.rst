@@ -14,6 +14,7 @@ in progress
     - Upgrade instance running on production
 
 - Add English PDFs to "resources" section. Split "collected translations" from "resources" section.
+- Improve responsiveness
 
 2018-01-12 0.2.0
 ----------------
