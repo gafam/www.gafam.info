@@ -16,6 +16,7 @@ in progress
 - Add English PDFs to "resources" section. Split "collected translations" from "resources" section.
 - Improve responsiveness
 - Improve wording
+- Add "About" section to both index.html and README.rst
 
 2018-01-12 0.2.0
 ----------------
