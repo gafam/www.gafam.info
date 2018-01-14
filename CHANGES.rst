@@ -15,6 +15,7 @@ in progress
 
 - Add English PDFs to "resources" section. Split "collected translations" from "resources" section.
 - Improve responsiveness
+- Improve wording
 
 2018-01-12 0.2.0
 ----------------
