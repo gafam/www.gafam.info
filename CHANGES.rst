@@ -5,6 +5,7 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+- Host poster PDFs on ptrace.gafam.info
 
 
 2018-01-14 0.4.0
