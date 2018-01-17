@@ -15,12 +15,6 @@ module.exports = {
 
     amd: {
         'jquery': true,
-        'backbone': true,
-        'backbone.marionette': true,
-        'classie': true,
-        'localforage.nopromises': true,
-        'localforage.backbone': true,
-        'backbone-relational': true,
     },
 
     output: {
