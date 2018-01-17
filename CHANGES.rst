@@ -5,7 +5,8 @@ www.gafam.info CHANGES
 
 in progress
 -----------
-- Host poster PDFs on ptrace.gafam.info
+- Host poster PDF files on ptrace.gafam.info
+- LQDN shared the German PDF file variant. Santé!
 
 
 2018-01-14 0.4.0
@@ -18,7 +19,7 @@ in progress
     - Run a local webserver
     - Upgrade instance running on production
 
-- Add English PDFs to "resources" section. Split "collected translations" from "resources" section.
+- Add English PDF file to "resources" section. Split "collected translations" from "resources" section.
 - Improve responsiveness
 - Improve wording
 - Add "About" section to both index.html and README.rst
@@ -35,7 +36,7 @@ in progress
 
 2018-01-12 0.1.0
 ----------------
-- Add first content (GAFAM French PDFs) and footer
+- Add first content (GAFAM French PDF file) and footer
 
 2018-01-11 0.0.0
 ----------------
