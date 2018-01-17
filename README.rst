@@ -1,3 +1,8 @@
+.. image:: https://img.shields.io/github/tag/gafam/www.gafam.info.svg
+    :target: https://github.com/gafam/www.gafam.info
+
+|
+
 ##############
 www.gafam.info
 ##############
