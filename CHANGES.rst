@@ -5,10 +5,13 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+
+2018-01-17 0.5.0
+----------------
 - Host poster PDF files on ptrace.gafam.info
 - LQDN shared the German PDF file variant. Santé!
 - Update documentation about how to create thumbnail image from poster PDF
-
+- Add translation into Japanese from gafam-poster-translations repository
 
 2018-01-14 0.4.0
 ----------------

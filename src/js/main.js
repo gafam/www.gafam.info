@@ -39,6 +39,10 @@ $(document).ready(function() {
                 "type": "po",
                 "label": "German",
                 "path": "po/de.po"
+            }, {
+                "type": "po",
+                "label": "Japanese",
+                "path": "po/jp.po"
             }
         ]
     });
