@@ -42,3 +42,23 @@ Have a look::
 
     open ./htdocs/index.html
 
+
+Create thumbnail image from poster PDF
+======================================
+::
+
+    # Just a workbench
+    mkdir tmp; cd tmp
+
+    # Acquire PDF file
+    wget https://ptrace.gafam.info/upstream/pdf/lqdn-gafam-poster-de.pdf
+
+    # Layout multiple pages in matrix
+    pdfnup --nup 2x3 --landscape=true --no-tidy lqdn-gafam-poster-de.pdf
+
+    # Convert to GIF format appropriately
+    convert -units PixelsPerInch lqdn-gafam-poster-de-nup.pdf -density 72 -trim +repage -resize 595x gafam-german-card.gif
+
+    # Copy to target directory
+    cp gafam-german-card.gif ../htdocs/static/img/
+

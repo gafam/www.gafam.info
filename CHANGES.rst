@@ -7,6 +7,7 @@ in progress
 -----------
 - Host poster PDF files on ptrace.gafam.info
 - LQDN shared the German PDF file variant. Santé!
+- Update documentation about how to create thumbnail image from poster PDF
 
 
 2018-01-14 0.4.0
