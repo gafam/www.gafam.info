@@ -5,6 +5,7 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+- Fix HTML description metadata
 
 2018-01-17 0.5.0
 ----------------

@@ -21,6 +21,13 @@ Ongoing
 ****
 Todo
 ****
+- [o] Add documentation "How to clear Telegram's link preview cache"
+
+    - Go to @webpagebot (https://telegram.me/webpagebot)
+    - Send message ``/updatepreview``
+    - Send URL ``https://gafam.info``
+    - The Bot should respond with "Link previews was updated successfully. Check them out!"
+
 - [o] Add separate "Gallery" page embedding images from ptrace.gafam.info
 - [o] Popover inline anchor handles
 - [o] Smooth scrolling to inline anchors
