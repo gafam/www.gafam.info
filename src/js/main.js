@@ -43,6 +43,10 @@ $(document).ready(function() {
                 "type": "po",
                 "label": "Japanese",
                 "path": "po/jp.po"
+            }, {
+                "type": "eo",
+                "label": "Espéranto",
+                "path": "po/eo.po"
             }
         ]
     });

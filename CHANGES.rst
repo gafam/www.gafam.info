@@ -6,6 +6,7 @@ www.gafam.info CHANGES
 in progress
 -----------
 - Fix HTML description metadata
+- Add translation to Espéranto. Thanks, David!
 
 2018-01-17 0.5.0
 ----------------
