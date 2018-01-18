@@ -21,6 +21,8 @@ Ongoing
 ****
 Todo
 ****
+- [o] Add video from the Paris campaign
+- [o] Use better og:image
 - [o] Add documentation "How to clear Telegram's link preview cache"
 
     - Go to @webpagebot (https://telegram.me/webpagebot)
@@ -57,6 +59,8 @@ Todo
         - https://www.softwareheritage.org/
         - https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages
         - https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_organizations
+
+- [o] Add logo for GitHub organization
 
 
 ****
