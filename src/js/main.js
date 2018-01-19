@@ -47,6 +47,10 @@ $(document).ready(function() {
                 "type": "eo",
                 "label": "Espéranto",
                 "path": "po/eo.po"
+            }, {
+                "type": "ru",
+                "label": "Russian",
+                "path": "po/ru.po"
             }
         ]
     });
