@@ -45,7 +45,7 @@ $(document).ready(function() {
                 "path": "po/jp.po"
             }, {
                 "type": "eo",
-                "label": "Espéranto",
+                "label": "Esperanto",
                 "path": "po/eo.po"
             }, {
                 "type": "ru",

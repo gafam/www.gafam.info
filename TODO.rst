@@ -22,6 +22,9 @@ Ongoing
 Todo
 ****
 - [o] Add video from the Paris campaign
+    > Also, here is a video of them spreading it in Paris:
+    > https://twitter.com/laquadrature/status/944148790684069888
+
 - [o] Use better og:image
 - [o] Add documentation "How to clear Telegram's link preview cache"
 
@@ -33,6 +36,7 @@ Todo
 - [o] Add separate "Gallery" page embedding images from ptrace.gafam.info
 - [o] Popover inline anchor handles
 - [o] Smooth scrolling to inline anchors
+- [o] Link from footer to Changelog
 - [o] Add "About LQDN" section. Footer?
 - [o] Add "Alternatives" section with things like
 
