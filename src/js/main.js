@@ -51,6 +51,10 @@ $(document).ready(function() {
                 "type": "ru",
                 "label": "Russian",
                 "path": "po/ru.po"
+            }, {
+                "type": "cmn",
+                "label": "Mandarin Chinese",
+                "path": "po/cmn.po"
             }
         ]
     });
