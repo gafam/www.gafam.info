@@ -5,6 +5,7 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+- Fix "upgrade" make target
 
 2018-01-24 0.5.1
 ----------------
