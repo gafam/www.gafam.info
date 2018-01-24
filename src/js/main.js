@@ -59,4 +59,19 @@ $(document).ready(function() {
         ]
     });
 
+
+    // Initialize video player
+    require('flowplayer/dist/skin/skin.css')
+    var flowplayer = require('flowplayer/dist/flowplayer.js');
+
+    flowplayer('#lqdn-gafam-posters-paris-video', {
+        swf: require('flowplayer/dist/flowplayer.swf'),
+        clip: {
+            sources: [{
+                type: 'video/mp4',
+                src: 'https://ptrace.gafam.info/2017-12-22_lqdn-gafam-paris.mp4'
+            }]
+        }
+    });
+
 });

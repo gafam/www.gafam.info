@@ -62,3 +62,17 @@ Create thumbnail image from poster PDF
     # Copy to target directory
     cp gafam-german-card.gif ../htdocs/static/img/
 
+
+Download MP4 video from Twitter
+===============================
+::
+
+    # Just a workbench
+    mkdir tmp; cd tmp
+
+    # youtube-dl does it all ;]
+    youtube-dl --output 'lqdn-gafam-paris.mp4' https://twitter.com/laquadrature/status/944148790684069888
+
+    # Upload to content web space
+    make ptrace source=lqdn-gafam-paris.mp4
+

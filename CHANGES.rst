@@ -5,11 +5,15 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+
+2018-01-24 0.6.0
+----------------
 - Fix HTML description metadata
 - Add translation to Esperanto. Thanks, David!
 - Add translation to Russian. Thanks, Elena!
 - Add translation to Mandarin Chinese. Thanks, Jenny!
 - Improve typography in "reproduce" section
+- Add video from Paris
 
 2018-01-17 0.5.0
 ----------------

@@ -21,7 +21,7 @@ Ongoing
 ****
 Todo
 ****
-- [o] Add video from the Paris campaign
+- [x] Add video from the Paris campaign
     > Also, here is a video of them spreading it in Paris:
     > https://twitter.com/laquadrature/status/944148790684069888
 
