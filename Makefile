@@ -49,7 +49,7 @@ upgrade:
 # Don't commit media assets (screenshots, other large files etc.) to the repository
 # or send them using email or instant messaging.
 # Instead, upload them to https://ptrace.gafam.info/
-ptrace_target := root@ptrace.gafam.info:/srv/www/organizations/collab42/ptrace.gafam.info/htdocs/
+ptrace_target := root@ptrace.gafam.info:/srv/www/organizations/gafam/ptrace.gafam.info/htdocs/
 ptrace_http   := https://ptrace.gafam.info/
 ptrace: check-ptrace-options
 	$(eval prefix := $(shell date --iso-8601))
