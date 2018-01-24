@@ -26,6 +26,7 @@ bumpversion: virtualenv
 
 push:
 	git push && git push --tags
+	git push lqdn && git push lqdn --tags
 
 
 release: bumpversion push

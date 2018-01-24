@@ -6,7 +6,12 @@ www.gafam.info CHANGES
 in progress
 -----------
 
-2018-01-24 0.6.0
+2018-01-24 0.5.1
+----------------
+- Add "lqdn" upstream to "push" Makefile target
+- Fix changelog
+
+2018-01-24 0.5.0
 ----------------
 - Fix HTML description metadata
 - Add translation to Esperanto. Thanks, David!
@@ -15,14 +20,14 @@ in progress
 - Improve typography in "reproduce" section
 - Add video from Paris
 
-2018-01-17 0.5.0
+2018-01-17 0.4.0
 ----------------
 - Host poster PDF files on ptrace.gafam.info
 - LQDN shared the German PDF file variant. Santé!
 - Update documentation about how to create thumbnail image from poster PDF
 - Add translation into Japanese from gafam-poster-translations repository
 
-2018-01-14 0.4.0
+2018-01-14 0.3.0
 ----------------
 - Wording, Emphasis, Cleanup
 - Rename repository gafam-l10n to gafam-poster-translations
