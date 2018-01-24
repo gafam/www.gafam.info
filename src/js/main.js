@@ -64,6 +64,10 @@ $(document).ready(function() {
     require('flowplayer/dist/skin/skin.css')
     var flowplayer = require('flowplayer/dist/flowplayer.js');
 
+    // Disable Chromecast
+    // https://github.com/flowplayer/flowplayer/commit/cb784d2a
+    flowplayer.set({chromecast: false});
+
     flowplayer('#lqdn-gafam-posters-paris-video', {
         swf: require('flowplayer/dist/flowplayer.swf'),
         clip: {

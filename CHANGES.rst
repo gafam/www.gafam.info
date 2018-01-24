@@ -6,6 +6,7 @@ www.gafam.info CHANGES
 in progress
 -----------
 - Fix "upgrade" make target
+- Disable Chromecast for flowplayer as this loads resources from gstatic.com
 
 2018-01-24 0.5.1
 ----------------
