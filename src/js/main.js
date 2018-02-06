@@ -55,6 +55,10 @@ $(document).ready(function() {
                 "type": "cmn",
                 "label": "Mandarin Chinese",
                 "path": "po/cmn.po"
+            }, {
+                "type": "it",
+                "label": "Italian",
+                "path": "po/it.po"
             }
         ]
     });

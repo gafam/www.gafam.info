@@ -5,8 +5,12 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+
+2018-02-06 0.6.0
+----------------
 - Fix "upgrade" make target
 - Disable Chromecast for flowplayer as this loads resources from gstatic.com
+- Add translation into Italian. Thanks, Daniele!
 
 2018-01-24 0.5.1
 ----------------
