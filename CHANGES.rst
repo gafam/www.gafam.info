@@ -5,6 +5,7 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+- Add translation into Polish. Thanks, Piotr and friends!
 
 2018-02-06 0.6.0
 ----------------

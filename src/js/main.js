@@ -59,6 +59,10 @@ $(document).ready(function() {
                 "type": "it",
                 "label": "Italian",
                 "path": "po/it.po"
+            }, {
+                "type": "pl",
+                "label": "Polish",
+                "path": "po/pl.po"
             }
         ]
     });
