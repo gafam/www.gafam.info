@@ -6,6 +6,8 @@ www.gafam.info CHANGES
 in progress
 -----------
 - Add translation into Polish. Thanks, Piotr and friends!
+- Add translation into Norwegian. Thanks, Allan!
+- Add translation into Catalan. Thanks, Pau!
 
 2018-02-06 0.6.0
 ----------------

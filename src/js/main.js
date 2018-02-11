@@ -63,6 +63,14 @@ $(document).ready(function() {
                 "type": "pl",
                 "label": "Polish",
                 "path": "po/pl.po"
+            }, {
+                "type": "no",
+                "label": "Norwegian Bokmål",
+                "path": "po/nb_NO.po"
+            }, {
+                "type": "ca",
+                "label": "Catalan",
+                "path": "po/ca.po"
             }
         ]
     });
