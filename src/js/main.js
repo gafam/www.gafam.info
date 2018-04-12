@@ -28,49 +28,53 @@ $(document).ready(function() {
             },
             */
             {
-                "type": "po",
-                "label": "French",
-                "path": "po/fr.po"
+                "type": "ca",
+                "label": "Catalan",
+                "path": "po/ca.po"
             }, {
                 "type": "po",
                 "label": "English",
                 "path": "po/en.po"
             }, {
-                "type": "po",
-                "label": "German",
-                "path": "po/de.po"
-            }, {
-                "type": "po",
-                "label": "Japanese",
-                "path": "po/jp.po"
-            }, {
                 "type": "eo",
                 "label": "Esperanto",
                 "path": "po/eo.po"
             }, {
-                "type": "ru",
-                "label": "Russian",
-                "path": "po/ru.po"
+                "type": "po",
+                "label": "French",
+                "path": "po/fr.po"
             }, {
-                "type": "cmn",
-                "label": "Mandarin Chinese",
-                "path": "po/cmn.po"
+                "type": "po",
+                "label": "German",
+                "path": "po/de.po"
             }, {
                 "type": "it",
                 "label": "Italian",
                 "path": "po/it.po"
             }, {
-                "type": "pl",
-                "label": "Polish",
-                "path": "po/pl.po"
+                "type": "po",
+                "label": "Japanese",
+                "path": "po/jp.po"
+            }, {
+                "type": "cmn",
+                "label": "Mandarin Chinese",
+                "path": "po/cmn.po"
             }, {
                 "type": "no",
                 "label": "Norwegian Bokmål",
                 "path": "po/nb_NO.po"
             }, {
-                "type": "ca",
-                "label": "Catalan",
-                "path": "po/ca.po"
+                "type": "pl",
+                "label": "Polish",
+                "path": "po/pl.po"
+            }, {
+                "type": "ru",
+                "label": "Russian",
+                "path": "po/ru.po"
+            }, {
+                "type": "es",
+                "label": "Spanish",
+                "path": "po/es.po"
             }
         ]
     });
