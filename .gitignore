@@ -2,8 +2,9 @@
 .DS_Store
 /htdocs/static/assets/*
 !/htdocs/static/assets/README.txt
-/node_modules
+node_modules
 yarn-error.log
 yarn.lock
-/.venv27
+/.venv*
+.nodeenv*
 /tmp
