@@ -10,6 +10,7 @@ in progress
 - Add translation into Catalan. Thanks, Pau!
 - Add translation into Spanish. Thanks, Roberto!
 - Hide sections "Resources", "Translations" and "What else?"
+- Update page metadata
 
 2018-02-06 0.6.0
 ----------------
