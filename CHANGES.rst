@@ -11,6 +11,7 @@ in progress
 - Add translation into Spanish. Thanks, Roberto!
 - Hide sections "Resources", "Translations" and "What else?"
 - Update page metadata
+- Update some texts and page content
 
 2018-02-06 0.6.0
 ----------------
