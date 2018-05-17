@@ -33,3 +33,15 @@
     color: black;
     font-weight: bold;
 }
+
+.image-shadow {
+    box-shadow: .0rem .0rem .4rem .05rem black;
+}
+
+.image-shadow-white {
+    box-shadow: .0rem .0rem .4rem .05rem white;
+}
+
+.library-link:hover, .library-link.is-hovered {
+    color: #276cda;
+}

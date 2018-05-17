@@ -5,6 +5,9 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+
+2018-05-17 0.7.0
+----------------
 - Add translation into Polish. Thanks, Piotr and friends!
 - Add translation into Norwegian. Thanks, Allan!
 - Add translation into Catalan. Thanks, Pau!
@@ -13,6 +16,7 @@ in progress
 - Update page metadata
 - Update some texts and page content
 - Deactivate GitHub embedding widget
+- Add reference to library.gafam.info
 
 2018-02-06 0.6.0
 ----------------
