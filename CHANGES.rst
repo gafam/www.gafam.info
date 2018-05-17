@@ -12,6 +12,7 @@ in progress
 - Hide sections "Resources", "Translations" and "What else?"
 - Update page metadata
 - Update some texts and page content
+- Deactivate GitHub embedding widget
 
 2018-02-06 0.6.0
 ----------------

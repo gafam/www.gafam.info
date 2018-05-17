@@ -14,6 +14,15 @@ $(document).ready(function() {
     // Propagate version
     $('#version').html(__version__);
 
+    // Initialize GitHub embedding widget
+    //initialize_github_embed();
+
+    // Initialize video player
+    initialize_video_player();
+
+});
+
+function initialize_github_embed() {
     // Embed things from GitHub
     githubEmbed('.github-gafam-poster-translations', {
         "owner": "gafam",
@@ -78,7 +87,9 @@ $(document).ready(function() {
             }
         ]
     });
+}
 
+function initialize_video_player() {
 
     // Initialize video player
     require('flowplayer/dist/skin/skin.css')
@@ -93,9 +104,9 @@ $(document).ready(function() {
         clip: {
             sources: [{
                 type: 'video/mp4',
-                src: 'https://ptrace.gafam.info/2017-12-22_lqdn-gafam-paris.mp4'
+                src: 'https://ptrace.gafam.info/assets/2017-12-22_lqdn-gafam-paris.mp4'
             }]
         }
     });
 
-});
+}
