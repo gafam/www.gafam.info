@@ -9,6 +9,7 @@ in progress
 - Add translation into Norwegian. Thanks, Allan!
 - Add translation into Catalan. Thanks, Pau!
 - Add translation into Spanish. Thanks, Roberto!
+- Hide sections "Resources", "Translations" and "What else?"
 
 2018-02-06 0.6.0
 ----------------
