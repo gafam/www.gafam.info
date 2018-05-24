@@ -5,6 +5,7 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+- Use stable URL to mosaic image
 
 2018-05-17 0.7.0
 ----------------
