@@ -45,3 +45,7 @@
 .library-link:hover, .library-link.is-hovered {
     color: #276cda;
 }
+
+.hero.is-info {
+    background-color: #209cee;
+}

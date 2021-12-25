@@ -9,6 +9,7 @@ in progress
 - Fix missing text in GitHub CSS ribbon
 - Update dependency packages
 - Add yarn.lock
+- Fix hero banner background color after updating Bulma
 
 2018-05-17 0.7.0
 ----------------
