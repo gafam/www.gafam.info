@@ -5,6 +5,7 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+- Remove dependency to "github-embed"
 
 2021-12-25 0.8.0
 ----------------

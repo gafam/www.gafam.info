@@ -3,8 +3,8 @@ require('font-awesome/css/font-awesome.css');
 require('bulma/css/bulma.css');
 require('github-fork-ribbon-css/gh-fork-ribbon.css');
 require('babel-polyfill');
-require('github-embed/npm/css/github-embed.css');
-const githubEmbed = require('github-embed');
+//require('github-embed/npm/css/github-embed.css');
+//const githubEmbed = require('github-embed');
 
 require('../css/main.css');
 
