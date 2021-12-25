@@ -4,7 +4,7 @@
 !/htdocs/static/assets/README.txt
 node_modules
 yarn-error.log
-yarn.lock
 /.venv*
 .nodeenv*
 /tmp
+*.old

@@ -8,6 +8,7 @@ in progress
 - Use stable URL to mosaic image
 - Fix missing text in GitHub CSS ribbon
 - Update dependency packages
+- Add yarn.lock
 
 2018-05-17 0.7.0
 ----------------
