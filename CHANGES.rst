@@ -5,6 +5,9 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+
+2021-12-25 0.8.0
+----------------
 - Use stable URL to mosaic image
 - Fix missing text in GitHub CSS ribbon
 - Update dependency packages
