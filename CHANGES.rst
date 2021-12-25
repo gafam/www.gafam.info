@@ -6,6 +6,7 @@ www.gafam.info CHANGES
 in progress
 -----------
 - Remove dependency to "github-embed" and "capturejs"
+- Update dependency packages
 
 2021-12-25 0.8.0
 ----------------
