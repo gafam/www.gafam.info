@@ -2,21 +2,23 @@
 # local webserver
 # ===============
 webserver:
-	cd htdocs; python -m SimpleHTTPServer 8001; cd ..
+	cd htdocs; python3 -m http.server 8001; cd ..
 
 
 # ===========
 # bumpversion
 # ===========
 
-$(eval venvpath     := .venv27)
-$(eval bumpversion  := $(venvpath)/bin/bumpversion)
+$(eval venvpath     := .venv)
+$(eval pip          := $(venvpath)/bin/pip)
+$(eval python       := $(venvpath)/bin/python)
+$(eval bumpversion  := $(venvpath)/bin/bump2version)
 
 virtualenv:
-	@test -e $(venvpath)/bin/python || `command -v virtualenv` --python=`command -v python` --no-site-packages $(venvpath)
+	@test -e $(python) || python3 -m venv --system-site-packages $(venvpath)
 
 bumpversion: virtualenv
-	@$(venvpath)/bin/pip install bumpversion
+	@$(pip) install bump2version
 	$(bumpversion) $(bump)
 
 
