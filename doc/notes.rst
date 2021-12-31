@@ -48,19 +48,12 @@ How to clear Telegram's link preview cache
 
 
 
-*********************
-Software alternatives
-*********************
+****************************************
+Software and infrastructure alternatives
+****************************************
 
-- PRISM Break
-
-    - https://de.wikipedia.org/wiki/PRISM_Break
-    - https://github.com/nylira/prism-break
-
-- Framasoft
-
-    - https://framasoft.org/
-    - https://framapack.org/
+Introduction
+============
 
 - Educational / Why Open Source?
 
@@ -75,6 +68,33 @@ Software alternatives
     - https://www.softwareheritage.org/
     - https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages
     - https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_organizations
+
+
+Recommendations
+===============
+
+- PRISM Break
+
+    - https://prism-break.org/
+    - https://de.wikipedia.org/wiki/PRISM_Break
+    - https://github.com/nylira/prism-break
+
+- F-Droid
+
+- DNS
+
+    - Quad9: https://quad9.net/, dns9.quad9.net, 9.9.9.9
+
+- Framasoft
+
+    - https://framasoft.org/
+    - https://framapack.org/
+
+- Ethibox
+
+    - https://ethibox.fr/
+    - https://github.com/ethibox/ethibox
+    - /cc @johackim
 
 
 
