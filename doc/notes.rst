@@ -1,6 +1,16 @@
-====================
+####################
 www.gafam.info notes
-====================
+####################
+
+
+******************
+Original resources
+******************
+
+- https://wiki.laquadrature.net/Fichier:LQDNgafamEN.pdf
+- https://wiki.laquadrature.net/images/f/f2/LQDNgafamEN.pdf
+- https://wiki.laquadrature.net/images/5/50/Lqdn_affiche_gafam.pdf
+- https://twitter.com/MarieGarambois/status/941595275893837824
 
 
 ****
@@ -17,7 +27,11 @@ Use Fitty (https://rikschennink.github.io/fitty/) for the job.
 Or have a look at FitText or FlowType:
 https://discourse.wicg.io/t/auto-sizing-text-to-fit-container/1053
 
-See https://github.com/posterkit. This is still pre-alpha! ;]
+The outcome is a rendering engine called PosterKit_, based on DeckTape_.
+
+
+.. _PosterKit: https://github.com/posterkit
+.. _DeckTape: https://github.com/astefanutti/decktape
 
 
 *************
@@ -76,29 +90,3 @@ BATX
 - https://growthrocks.com/blog/batx/
 - https://dbpedia.org/page/BATX
 - https://medium.com/adventures-in-consumer-technology/orange-is-the-new-black-is-batx-the-new-gafa-240d13bba741
-
-
-
-******************
-Original resources
-******************
-
-- https://wiki.laquadrature.net/Fichier:LQDNgafamEN.pdf
-- https://wiki.laquadrature.net/images/f/f2/LQDNgafamEN.pdf
-- https://wiki.laquadrature.net/images/5/50/Lqdn_affiche_gafam.pdf
-- https://twitter.com/MarieGarambois/status/941595275893837824
-
-
-*******
-Backlog
-*******
-
-- [o] Use better og:image
-- [o] Add separate "Gallery" page embedding images from ptrace.gafam.info
-- [o] Popover inline anchor handles
-- [o] Smooth scrolling to inline anchors
-- [o] Link from footer to Changelog
-- [o] Add "About LQDN" section. Footer?
-- [o] Add section about "Software alternatives"
-- [o] Add logo for GitHub organization
-- [o] Maybe add some quotes, e.g. from https://wiki.laquadrature.net/QSPTAG#FOSDEM
