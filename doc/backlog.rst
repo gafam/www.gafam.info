@@ -25,4 +25,3 @@ Technical
 *********
 
 - [o] Popover inline anchor handles
-- [o] Smooth scrolling to inline anchors?
