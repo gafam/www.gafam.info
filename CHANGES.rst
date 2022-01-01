@@ -5,6 +5,10 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+
+
+2022-01-01 0.10.0
+-----------------
 - Fix missing text in GitHub CSS ribbon again
 - Add smooth scrolling to inline anchors. Thanks, @nickspaargaren!
 
