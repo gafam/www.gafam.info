@@ -2,14 +2,10 @@ var os = require('os');
 const config = require('./webpack.config');
 const webpack = require('webpack');
 
+config.mode = "production";
 config.output.filename = '[name].bundle.min.js';
+config.optimization = {runtimeChunk: "single"};
 config.plugins.push(
-
-    // https://webpack.js.org/plugins/commons-chunk-plugin/
-    new webpack.optimize.CommonsChunkPlugin({
-        name: "commons",
-        filename: "commons.bundle.min.js",
-    }),
 
     // https://webpack.js.org/plugins/uglifyjs-webpack-plugin/
     new webpack.optimize.UglifyJsPlugin({

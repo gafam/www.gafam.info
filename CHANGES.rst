@@ -5,6 +5,7 @@ www.gafam.info CHANGES
 
 in progress
 -----------
+- Upgrade to webpack 5
 
 
 2022-01-01 0.10.0

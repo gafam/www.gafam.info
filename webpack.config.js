@@ -5,6 +5,10 @@ module.exports = {
 
     cache: true,
     devtool: "cheap-source-map",
+    stats: {
+        errorDetails: true,
+        children: true
+    },
 
     entry: {
         'app': [
@@ -27,36 +31,24 @@ module.exports = {
         rules: [
             // Do these to expose their symbols to the template namespace
             {
+                // Expose jQuery for use outside Webpack build.
                 test: require.resolve('jquery'),
-                use: [
-                    {
-                        loader: 'expose-loader',
-                        options: 'jQuery',
-                    },
-                    {
-                        loader: 'expose-loader',
-                        options: '$',
-                    },
-                ],
+                loader: "expose-loader",
+                options: {
+                    exposes: ["$", "jquery", "jQuery"],
+                },
             },
             {
-                test: /\.css$/,
-                use: [
-                    'style-loader',
-                    'css-loader'
-                ]
+                test: /\.css$/i,
+                use: ['style-loader', 'css-loader']
             },
             {
                 test: /\.(woff|woff2|eot|ttf|otf)$/,
-                use: [
-                    'file-loader'
-                ]
+                use: ['file-loader']
             },
             {
                 test: /\.(png|svg|jpg|gif|swf|ico)$/,
-                use: [
-                    'file-loader'
-                ]
+                use: ['file-loader']
             }
         ]
     },
