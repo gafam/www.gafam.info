@@ -15,7 +15,7 @@ $(eval python       := $(venvpath)/bin/python)
 $(eval bumpversion  := $(venvpath)/bin/bump2version)
 
 virtualenv:
-	@test -e $(python) || python3 -m venv --system-site-packages $(venvpath)
+	@test -e $(python) || python3 -m venv $(venvpath)
 
 bumpversion: virtualenv
 	@$(pip) install bump2version
