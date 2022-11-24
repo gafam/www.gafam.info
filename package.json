@@ -45,6 +45,7 @@
         "yarn": "^1"
     },
     "resolutions": {
+      "minimatch": "^3.0.6",
       "minimist": "^1.2.6",
       "follow-redirects": "^1.14.8"
     }
