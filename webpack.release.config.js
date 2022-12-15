@@ -1,53 +1,25 @@
 var os = require('os');
 const config = require('./webpack.config');
 const webpack = require('webpack');
+const TerserPlugin = require("terser-webpack-plugin");
 
 config.mode = "production";
 config.output.filename = '[name].bundle.min.js';
-config.optimization = {runtimeChunk: "single"};
-config.plugins.push(
 
-    // https://webpack.js.org/plugins/uglifyjs-webpack-plugin/
-    new webpack.optimize.UglifyJsPlugin({
-        parallel: {
-            cache: true,
-            workers: os.cpus().length - 1,
-        },
-        ie8: false,
-        sourceMap: true,
-        compress: {
-            warnings: false,
-            properties: true,
-            sequences: true,
-            dead_code: true,
-            conditionals: true,
-            comparisons: true,
-            evaluate: true,
-            booleans: true,
-            unused: true,
-            loops: true,
-            hoist_funs: true,
-            cascade: true,
-            if_return: true,
-            join_vars: true,
-            //drop_console: true,
-            drop_debugger: true,
-            unsafe: true,
-            hoist_vars: true,
-            negate_iife: true,
-            //side_effects: true
-        },
-        mangle: {
-            toplevel: true,
-            sort: true,
-            eval: true,
-            properties: true
-        },
-        output: {
-            comments: false,
-        },
-    })
-
-);
+// https://webpack.js.org/plugins/terser-webpack-plugin/#uglify-js
+config.optimization = {
+    runtimeChunk: "single",
+    minimize: true,
+    minimizer: [
+        new TerserPlugin({
+            minify: TerserPlugin.uglifyJsMinify,
+            // `terserOptions` options will be passed to `uglify-js`
+            // Link to options - https://github.com/mishoo/UglifyJS#minify-options
+            terserOptions: {
+                sourceMap: true,
+            },
+        }),
+    ],
+};
 
 module.exports = config;
