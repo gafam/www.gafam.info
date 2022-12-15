@@ -89,6 +89,8 @@ Recommendations
 
     - https://framasoft.org/
     - https://framapack.org/
+    - https://degooglisons-internet.org/en/
+    - https://framasoft.org/en/association/
 
 - Ethibox
 
@@ -96,6 +98,10 @@ Recommendations
     - https://github.com/ethibox/ethibox
     - /cc @johackim
 
+- More
+
+    - https://www.topio.info/fair-data.htm
+    - https://switching.software/
 
 
 ***************************************
@@ -110,3 +116,16 @@ BATX
 - https://growthrocks.com/blog/batx/
 - https://dbpedia.org/page/BATX
 - https://medium.com/adventures-in-consumer-technology/orange-is-the-new-black-is-batx-the-new-gafa-240d13bba741
+
+
+***********
+Miscellanea
+***********
+
+- https://promethosia.com/tag/gafam/
+- https://usbeketrica.com/fr/article/pour-resister-aux-gafam-l-une-des-solutions-est-de-ne-pas-mettre-toutes-ses-donnees-dans-le-meme-papier
+- https://blog.calipia.com/2021/03/17/valorisation-les-gafam-profitent-de-la-crise/
+- https://pedrodebruyckere.blog/2018/02/04/opvallende-posters-tegen-gafam-google-apple-facebook-amazon-en-microsoft/
+- https://switching.software/
+- https://www.topio.info/fair-data.htm
+- https://www.standblog.org/dc-blog/public/2019/Master_Thesis_-_Zuzanna_Sonenberg.pdf
