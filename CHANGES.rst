@@ -5,7 +5,18 @@ www.gafam.info CHANGES
 
 in progress
 -----------
-- Upgrade to webpack 5
+
+
+2022-12-16 0.11.0
+-----------------
+- Add section about how to block internet access. Thanks, @nickspaargaren.
+
+Sandbox and CI:
+
+- Update to webpack 5
+- Update dependency packages, resolving ``yarn audit``
+- Fix virtualenv setup
+- Add CI/GHA recipe covering package building
 
 
 2022-01-01 0.10.0
