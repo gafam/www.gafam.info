@@ -36,6 +36,7 @@
         "github-fork-ribbon-css": "^0.2",
         "jquery": "^3.6",
         "style-loader": "^3",
+        "uglify-js": "^3.17.4",
         "webpack": "^5",
         "webpack-cli": "^4",
         "webpack-dev-server": "^4",
@@ -45,8 +46,8 @@
         "yarn": "^1"
     },
     "resolutions": {
-      "minimatch": "^3.0.6",
-      "minimist": "^1.2.6",
-      "follow-redirects": "^1.14.8"
+        "minimatch": "^3.0.6",
+        "minimist": "^1.2.6",
+        "follow-redirects": "^1.14.8"
     }
 }
