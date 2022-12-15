@@ -44,8 +44,14 @@ jobs:
       - name: Install dependencies
         run: yarn install
 
-      - name: Build package
+      - name: Build package (development)
         run: yarn run build
 
-      - name: Verify package build
+      - name: Verify package build (development)
         run: ls -alF htdocs/static/assets/*.bundle.js
+
+      - name: Build package (production)
+        run: yarn run release
+
+      - name: Verify package build (production)
+        run: ls -alF htdocs/static/assets/*.bundle.min.js
