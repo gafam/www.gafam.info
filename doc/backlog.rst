@@ -7,7 +7,7 @@ www.gafam.info backlog
 Educational
 ***********
 
-- [o] Add "About LQDN" section. Maybe using a short introductional sentence within the footer?
+- [o] Add "About LQDN" section. Maybe using a short introductory sentence within the footer?
 
 
 *******
