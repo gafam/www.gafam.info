@@ -103,7 +103,7 @@ function initialize_video_player() {
     flowplayer.set({chromecast: false});
 
     flowplayer('#lqdn-gafam-posters-paris-video', {
-        swf: require('flowplayer/dist/flowplayer.swf'),
+        // swf: require('flowplayer/dist/flowplayer.swf'),
         clip: {
             sources: [{
                 type: 'video/mp4',

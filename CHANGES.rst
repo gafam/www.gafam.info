@@ -7,6 +7,11 @@ in progress
 -----------
 
 
+2022-12-16 0.11.1
+-----------------
+- Fix Flowplayer configuration
+
+
 2022-12-16 0.11.0
 -----------------
 - Add section about how to block internet access. Thanks, @nickspaargaren.
