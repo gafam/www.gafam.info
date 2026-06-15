@@ -43,6 +43,7 @@
         "webpack-notifier": "^1"
     },
     "dependencies": {
+        "minimist": "^1.2.6",
         "yarn": "^1"
     },
     "resolutions": {
