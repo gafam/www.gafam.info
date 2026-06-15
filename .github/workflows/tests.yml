@@ -23,7 +23,7 @@ jobs:
     strategy:
       matrix:
         os: [ "ubuntu-latest" ]
-        node-version: [ '14' ]
+        node-version: [ '18' ]
 
     name: Node.js ${{ matrix.node-version }} on ${{ matrix.os }}
     steps:
