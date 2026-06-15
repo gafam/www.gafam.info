@@ -39,7 +39,7 @@
         "uglify-js": "^3.17.4",
         "webpack": "^5",
         "webpack-cli": "^4",
-        "webpack-dev-server": "^4",
+        "webpack-dev-server": "^5",
         "webpack-notifier": "^1"
     },
     "dependencies": {
